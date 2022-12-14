@@ -32,6 +32,11 @@ $(function () {
     console.log(dailyTasksString);
   });
 
+  $(".clearTasks").click(function(e) {
+    localStorage.clear();
+    location.reload();
+  });
+
 
   // Add code to apply the past, present, or future class to each time-block
   var timeBlock = document.querySelectorAll('.time-block');
