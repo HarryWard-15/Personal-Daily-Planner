@@ -33,7 +33,7 @@ THEN the saved events persist
 
 ## Installation
 
-![passwordgen img](./assets/mockup.png)
+![passwordgen img](./Assets/mockup.png)
 Live Link: https://harryward-15.github.io/Personal-Daily-Planner/
 
 ## Usage
